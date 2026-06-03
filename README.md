@@ -59,6 +59,8 @@ Skills guide Copilot through **repeatable workflows** and specialized tasks — 
 - [.github/skills/code-review.md](.github/skills/code-review.md)
 - [.github/skills/release-notes.md](.github/skills/release-notes.md)
 
+📁 Full Angular example: [examples/angular-app/README.md](examples/angular-app/README.md)
+
 ---
 
 ## 🧠 Memory
@@ -130,7 +132,8 @@ github-copilot-poc/
 │   ├── memory-guide.md                # Full guide on Memory
 │   └── instructions-guide.md          # Full guide on Instructions
 └── examples/
-    └── angular-project-memory.md      # Example memory for Angular project
+    ├── angular-project-memory.md      # Example memory for Angular project
+    └── angular-app/                   # Angular example showing instructions, memory, skills
 ```
 
 ---
